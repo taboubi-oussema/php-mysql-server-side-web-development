@@ -38,4 +38,3 @@ git clone <repository-url>
 Contributing
 Feel free to fork the repository, submit issues, or send pull requests. Contributions are welcome!
 
-
